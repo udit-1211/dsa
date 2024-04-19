@@ -1,1 +1,1 @@
-Checkout solution that is mention in commit message.
+Checkout solution for problem that is mention in commit message.
